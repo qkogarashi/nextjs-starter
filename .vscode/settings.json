@@ -1,0 +1,23 @@
+{
+  "css.validate": false,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "classNames",
+    "containerClassName"
+  ],
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "js/ts.preferences.importModuleSpecifier": "non-relative",
+  "eslint.workingDirectories": [
+    { "mode": "auto" }
+  ]
+}
